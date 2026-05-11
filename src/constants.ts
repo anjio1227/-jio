@@ -104,7 +104,7 @@ export const PROJECTS = [
     category: "统筹力",
     tags: ["国家电网安全文化建设", "线下活动统筹", "跨部门协同"],
     title: "活动策划与政企传播",
-    cover: "/src/assets/images/regenerated_image_1777883287937.jpg",
+    cover: "/images/regenerated_image_1777883287937.jpg",
     challenge: "政企类安全文化活动往往面临“专业性强、受众参与感低、合规要求极高”的难题。如何在极短周期内，将枯燥的制度转化为易于感知的现场体验？",
     solution: "主导视觉焕新、策划互动打卡环节、丰富文创礼品、统筹5+供应商并行推进。",
     fullCase: {
@@ -124,12 +124,12 @@ export const PROJECTS = [
           desc: "将严肃的安全教育与思辨性辩论赛相结合，打造沉浸式安全文化体验。负责从赛制策划、选手包装到舞美落地的全流程管控。",
           imageCount: 6,
           images: [
-            "/src/assets/images/regenerated_image_1777885077999.jpg",
-            "/src/assets/images/regenerated_image_1777885080309.jpg",
-            "/src/assets/images/regenerated_image_1777885081997.jpg",
-            "/src/assets/images/regenerated_image_1777885083649.jpg",
-            "/src/assets/images/regenerated_image_1777885084931.jpg",
-            "/src/assets/images/regenerated_image_1777885086261.jpg"
+            "/images/regenerated_image_1777885077999.jpg",
+            "/images/regenerated_image_1777885080309.jpg",
+            "/images/regenerated_image_1777885081997.jpg",
+            "/images/regenerated_image_1777885083649.jpg",
+            "/images/regenerated_image_1777885084931.jpg",
+            "/images/regenerated_image_1777885086261.jpg"
           ]
         },
         {
@@ -137,12 +137,12 @@ export const PROJECTS = [
           desc: "统筹全县电力系统年度核心安全活动，包含启动仪式、实操演练与成果展陈。协调政府部门、企业内外多方资源确保合规与实效。",
           imageCount: 6,
           posters: [
-            { image: "/src/assets/images/regenerated_image_1777886194935.jpg", tag: "微电影" },
-            { image: "/src/assets/images/regenerated_image_1777886204178.jpg", tag: "宣传片" },
-            { image: "/src/assets/images/regenerated_image_1777886213761.jpg", tag: "纪录片" },
-            { image: "/src/assets/images/regenerated_image_1777886224211.jpg", tag: "微电影" },
-            { image: "/src/assets/images/regenerated_image_1777886233494.jpg", tag: "视觉设计" },
-            { image: "/src/assets/images/regenerated_image_1777886243017.jpg", tag: "视觉设计" }
+            { image: "/images/regenerated_image_1777886194935.jpg", tag: "微电影" },
+            { image: "/images/regenerated_image_1777886204178.jpg", tag: "宣传片" },
+            { image: "/images/regenerated_image_1777886213761.jpg", tag: "纪录片" },
+            { image: "/images/regenerated_image_1777886224211.jpg", tag: "微电影" },
+            { image: "/images/regenerated_image_1777886233494.jpg", tag: "视觉设计" },
+            { image: "/images/regenerated_image_1777886243017.jpg", tag: "视觉设计" }
           ]
         }
       ],
@@ -190,10 +190,10 @@ export const PROJECTS = [
           videoUrl: "https://pan.baidu.com/s/1xIIkTdPvhFVqlVLI1p1Cmg?pwd=dp8v",
           imageCount: 4,
           images: [
-            "/src/assets/images/regenerated_image_1777975748343.png",
-            "/src/assets/images/regenerated_image_1777975750803.png",
-            "/src/assets/images/regenerated_image_1777975753059.png",
-            "/src/assets/images/regenerated_image_1777975756210.png"
+            "/images/regenerated_image_1777975748343.png",
+            "/images/regenerated_image_1777975750803.png",
+            "/images/regenerated_image_1777975753059.png",
+            "/images/regenerated_image_1777975756210.png"
           ]
         },
         {
@@ -203,10 +203,10 @@ export const PROJECTS = [
           videoUrl: "https://pan.baidu.com/s/1b7biGPLg-TNRw5Dom_Znpg?pwd=3txk",
           imageCount: 4,
           images: [
-            "/src/assets/images/regenerated_image_1777974792495.png",
-            "/src/assets/images/regenerated_image_1777974795396.png",
-            "/src/assets/images/regenerated_image_1777974797568.png",
-            "/src/assets/images/regenerated_image_1777974799701.png"
+            "/images/regenerated_image_1777974792495.png",
+            "/images/regenerated_image_1777974795396.png",
+            "/images/regenerated_image_1777974797568.png",
+            "/images/regenerated_image_1777974799701.png"
           ]
         },
         {
@@ -216,10 +216,10 @@ export const PROJECTS = [
           videoUrl: "https://pan.baidu.com/s/188nleCcQUMGwl9CS67H2FA?pwd=7m2e",
           imageCount: 4,
           images: [
-            "/src/assets/images/regenerated_image_1777974933394.png",
-            "/src/assets/images/regenerated_image_1777974936301.png",
-            "/src/assets/images/regenerated_image_1777974938711.png",
-            "/src/assets/images/regenerated_image_1777974941733.png"
+            "/images/regenerated_image_1777974933394.png",
+            "/images/regenerated_image_1777974936301.png",
+            "/images/regenerated_image_1777974938711.png",
+            "/images/regenerated_image_1777974941733.png"
           ]
         }
       ]
@@ -231,7 +231,7 @@ export const PROJECTS = [
     tags: ["全生命周期管理", "年度技术支撑", "成本与资源控制"],
     title: "项目管理与 SOP 沉淀",
     desc: "针对周期长、需求多变、具有高度参考意义的项目，系统性总结实战经验，沉淀出可持续落地的“四阶双轨”全流程管理方案。",
-    cover: "/src/assets/images/regenerated_image_1777976381014.png",
+    cover: "/images/regenerated_image_1777976381014.png",
     fullCase: {
       metrics: [
         { label: "业务覆盖", value: "全省/市级单位" },
@@ -250,12 +250,12 @@ export const PROJECTS = [
           isFullWidth: true,
           imageLabels: ["一、项目概况", "二、项目思路", "三、实施路径", "项目背景", "项目思路", "项目样例展示"],
           images: [
-            "/src/assets/images/regenerated_image_1778470414528.png",
-            "/src/assets/images/regenerated_image_1778469789112.png",
-            "/src/assets/images/regenerated_image_1778469913275.png",
-            "/src/assets/images/regenerated_image_1778470012445.png",
-            "/src/assets/images/regenerated_image_1778470111278.png",
-            "/src/assets/images/regenerated_image_1778470248491.png"
+            "/images/regenerated_image_1778470414528.png",
+            "/images/regenerated_image_1778469789112.png",
+            "/images/regenerated_image_1778469913275.png",
+            "/images/regenerated_image_1778470012445.png",
+            "/images/regenerated_image_1778470111278.png",
+            "/images/regenerated_image_1778470248491.png"
           ]
         }
       ],
@@ -271,7 +271,7 @@ export const PROJECTS = [
     category: "创新力",
     tags: ["AIGC辅助生产", "数字叙事", "视觉探索"],
     title: "AIGC 与视觉探索",
-    cover: "/src/assets/images/regenerated_image_1778338679839.jpg",
+    cover: "/images/regenerated_image_1778338679839.jpg",
     desc: "积极引入AIGC技术进入内容生产工作流，从分镜生成到海报设计，探讨算法与人文边界。",
     fullCase: {
       metrics: [
@@ -296,7 +296,7 @@ export const PROJECTS = [
           isFullWidth: true,
           imageLabels: ["生活的烟火气探索 (Urban Poetry)"],
           images: [
-            "/src/assets/images/regenerated_image_1778470548153.png"
+            "/images/regenerated_image_1778470548153.png"
           ]
         },
         {
@@ -305,8 +305,8 @@ export const PROJECTS = [
           isFullWidth: true,
           imageLabels: ["杭州美食路书专题 (Hangzhou Identity)", "粽情端午专题 (Festive Series)"],
           images: [
-            "/src/assets/images/regenerated_image_1778470664770.png",
-            "/src/assets/images/regenerated_image_1778470767781.png"
+            "/images/regenerated_image_1778470664770.png",
+            "/images/regenerated_image_1778470767781.png"
           ]
         }
       ]
