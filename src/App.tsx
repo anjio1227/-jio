@@ -105,7 +105,7 @@ export default function App() {
               <div className="relative group">
                 <div className="absolute -inset-4 bg-brand-violet/10 rounded-[40px] blur-2xl group-hover:bg-brand-violet/20 transition-colors duration-500" />
                 <img 
-                  src="/images/regenerated_image_1777882474553.jpg" 
+                  src="/regenerated_image_1777882474553.jpg" 
                   alt={PROFILE.name} 
                   className="relative w-full aspect-[3/4] object-cover rounded-[32px] shadow-2xl transition-all duration-700"
                 />
@@ -340,10 +340,10 @@ export default function App() {
                     /* Project 02 - Compact Grid */
                     <div className="w-full md:w-1/2 grid grid-cols-2 gap-4 py-6">
                       {[
-                        { src: "/images/regenerated_image_1777971707699.png", rotate: "-1deg" },
-                        { src: "/images/regenerated_image_1777971710809.png", rotate: "1.5deg" },
-                        { src: "/images/regenerated_image_1777971713441.png", rotate: "0.2deg" },
-                        { src: "/images/regenerated_image_1777971717206.png", rotate: "-0.5deg" }
+                        { src: "/regenerated_image_1777971707699.png", rotate: "-1deg" },
+                        { src: "/regenerated_image_1777971710809.png", rotate: "1.5deg" },
+                        { src: "/regenerated_image_1777971713441.png", rotate: "0.2deg" },
+                        { src: "/regenerated_image_1777971717206.png", rotate: "-0.5deg" }
                       ].map((item, i) => (
                         <motion.div 
                           key={i}
